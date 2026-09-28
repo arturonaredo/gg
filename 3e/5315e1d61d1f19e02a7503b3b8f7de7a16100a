@@ -1,0 +1,18 @@
+internal/gpu/gpu_render_context.go
+  h_54a1c5973b9675 269-272,278-280
+internal/gpu/render_session.go
+  h_54a1c5973b9675 251-257,338,385-386,1051,1064-1065,1072-1128,2934-2935,2943,3337-3338,3342,3540-3541,3549
+internal/gpu/session_frame_drain_test.go
+  h_54a1c5973b9675 1-258
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3e5315e1d61d1f19e02a7503b3b8f7de7a16100a",
+  "prompts": {},
+  "humans": {
+    "h_54a1c5973b9675": {
+      "author": "Arturo Naredo <arturono@inditex.com>"
+    }
+  }
+}
